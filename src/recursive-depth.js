@@ -13,5 +13,4 @@ module.exports = class DepthCalculator {
     });
     return k;
   }
-  }
 };
